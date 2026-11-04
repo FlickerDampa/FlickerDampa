@@ -1,5 +1,5 @@
 # FlickerDampa
 
-Security researcher and enthusiast in programming and solutions.
+Security researcher and programmer, turning hard problems into practical solutions.
 
 Website: https://flickerdampa.github.io
